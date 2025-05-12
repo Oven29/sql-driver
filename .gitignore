@@ -1,0 +1,15 @@
+.vscode/*
+
+venv/*
+
+__pycache__/*
+*.pyc
+
+build/*
+dist/*
+*.spec
+
+*.db
+*.sqlite
+*.tmp
+tmp/*
